@@ -1,6 +1,9 @@
 {
   "Images": {
-    "Test Icon": {
+----------------------------------------------------
+
+
+    "Test Image": {
       "ID": 0,
       "Optional": {
         "Desc": "Test Description",
@@ -10,29 +13,8 @@
         ]
       }
     }
-  },
-  "Sounds": {
-    "Test Sound": {
-      "ID": 0,
-      "Optional": {
-        "Desc": "Test Description",
-        "SearchTable": [
-          "test",
-          "debug"
-        ]
-      }
-    }
-  },
-  "Music": {
-    "Test Music": {
-      "ID": 0,
-      "Optional": {
-        "Desc": "Test Description",
-        "SearchTable": [
-          "test",
-          "debug"
-        ]
-      }
-    }
+
+
+----------------------------------------------------
   }
 }
